@@ -1,4 +1,4 @@
-﻿class Genero
+﻿namespace ScreenSound
 {
-    public string GeneroMusical { get; set; }
+    record Genero(string GeneroMusical);
 }

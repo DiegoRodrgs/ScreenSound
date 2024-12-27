@@ -1,4 +1,6 @@
-﻿class Banda
+﻿using ScreenSound;
+
+class Banda
 {
     private List<Album> albums = new List<Album>();
 
